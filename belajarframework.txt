@@ -1,3 +1,4 @@
 Tahap dasar belajar framework
-php dasar
-mvc
+-php dasar
+-mvc
+-composer
