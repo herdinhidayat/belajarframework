@@ -2,3 +2,6 @@ Tahap dasar belajar framework
 -php dasar
 -mvc
 -composer
+
+Tambahan belajar laravel 
+sebelum laravel lompat dulu ke codeigneter
